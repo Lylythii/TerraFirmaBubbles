@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tfb",
+  "name": "TFC: Bubbles",
+  "description": "1.13+ Bubble Columns in TFC 1.12.2.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://curseforge.com/minecraft/mc-mods/tfb",
+  "updateUrl": "https://github.com/Lylythii/TerraFirmaBubbles",
+  "authorList": ["Lylythii"],
+  "credits": "The TerraFirmaCraft Development Team",
+  "logoFile": "tfbubbles_logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
